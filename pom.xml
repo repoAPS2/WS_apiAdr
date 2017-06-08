@@ -35,8 +35,8 @@
 				    <configuration>
 				    
 				     <url>http://api.pilipen.com:8282/manager/text</url>
-				     <server>  mactomcat </server>
-				     <path>api</path>
+				     <server>mactomcat</server>
+				     <path>/api</path>
 	
 				    </configuration>
 		</plugin>
